@@ -1,7 +1,7 @@
 <h1> Hey  What's up?</h1>
 
 
-<p> I'm "Saansty", I'm a HTML, CSS3 and JavaScript student. Always studying to improve my knowledge .. <p>
+<p> I'm "Synt", I'm a HTML, CSS3 and JavaScript student. Always studying to improve my knowledge .. <p>
 
 ## About me
 - 📍  From - Brazil, Nova Andradina.
