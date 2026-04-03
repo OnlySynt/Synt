@@ -8,7 +8,7 @@
 - ✨ I've been in the programming world since 2020.
 - 📚 I am currently learning Lua, Css3, Html5 and JavaScript.
 - 🎯 Goals: Learn a lot about programming and develop my ideas.
-- 💻 Part of the NativeSeat Team.  <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="13" /> 
+- 💻 Part of the Syntax Network Team.  <img src="https://media.giphy.com/avatars/ucfcyber/rT7KnJJ811Cr.gif" width="13" /> 
 
 ## I code with
 
